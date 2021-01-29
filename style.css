@@ -1,0 +1,36 @@
+body {
+    background: #FFEBCD;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140%;
+   }
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140%;
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140%;
+}
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140%;
+}
+h5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140%;
+}
+h6 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140%;
+}
+h7 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 140%;
+    font-weight:bold
+}
